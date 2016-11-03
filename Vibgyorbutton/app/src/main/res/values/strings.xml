@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Vibgyorbutton</string>
+    <string name="redbutton">red is clicked</string>
+</resources>
